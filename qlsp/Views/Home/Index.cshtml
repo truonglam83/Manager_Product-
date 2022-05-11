@@ -1,0 +1,33 @@
+﻿
+@{
+    <link rel="stylesheet" href="/css/Style.css" asp-append-version="true" />
+    ViewData["Title"] = "Home - Welcome Home";
+    
+}
+    <div class="row pt-4">
+    <div class="col-6">
+        <h2 class="text-primary">All Product </h2>
+	</div>
+        
+</div>
+<br /><br />
+    
+    
+    
+    <div class="list" style="display:flex;align-items:stretch; justify-content:flex-start;flex-wrap:wrap;margin:0px">
+        @foreach(var obj in Model)
+        {
+            <div class="list_item" style="margin: 0px 20px">
+                <div class="img">
+                    <img src="https://dony.vn/wp-content/uploads/2021/08/quan-jean-nam-dep-ban-chay-10.jpg" alt="" height="390px" width="280px">
+                </div>
+                <div class="content">        
+                        <div>Name: @obj.Name</div>
+                        <div>Price: @obj.Price$</div>
+                </div>
+            </div>
+        }
+    </div>
+
+
+            

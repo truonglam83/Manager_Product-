@@ -1,0 +1,282 @@
+﻿++Solution 'qlsp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:qlsp.sln
+++qlsp
+i:{00000000-0000-0000-0000-000000000000}:qlsp
+++Connected Services 
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>871
+++Dependencies
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>870
+++Properties
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\properties\
+++launchSettings.json
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\properties\launchsettings.json
+++Resources.resx
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\properties\resources.resx
+++wwwroot
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\
+++css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\css\
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\
+++bootswatchTheme.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\css\bootswatchtheme.css
+++site.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\css\site.css
+++js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\js\
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\js\site.js
+++lib
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\
+++bootstrap
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\
+++jquery
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery\
+++jquery-validation
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\favicon.ico
+++Controllers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\controllers\
+++CategoryController.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\controllers\categorycontroller.cs
+++HomeController.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\controllers\homecontroller.cs
+++Data
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\data\
+++ApplicationDbContext.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\data\applicationdbcontext.cs
+++Migrations
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\migrations\
+++20220220144247_AddCategoyToDatabase.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\migrations\20220220144247_addcategoytodatabase.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\migrations\applicationdbcontextmodelsnapshot.cs
+++Models
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\models\
+++Category.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\models\category.cs
+++ErrorViewModel.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\models\errorviewmodel.cs
+++Views
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\
+++Category
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\category\
+++Create.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\category\create.cshtml
+++Delete.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\category\delete.cshtml
+++Edit.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\category\edit.cshtml
+++Index.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\home\index.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\category\index.cshtml
+++Home
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\home\
+++Privacy.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\home\privacy.cshtml
+++Shared
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\shared\
+++_Layout.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\_viewstart.cshtml
+++appsettings.json
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\appsettings.json
+++Program.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\program.cs
+++No service dependencies discovered
+++Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:analyzers
+++Frameworks
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:frameworks
+++Packages
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:packages
+++Resources.Designer.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\properties\resources.designer.cs
+++dist
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery\dist\
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery\license.txt
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20220220144247_AddCategoyToDatabase.Designer.cs
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\migrations\20220220144247_addcategoytodatabase.designer.cs
+++_Layout.cshtml.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\appsettings.development.json
+++MessagePackAnalyzer
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>883
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>884
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>885
+++Microsoft.SqlServer.Types (14.0.1016.290)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>907
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>886
+++System.Data.SqlClient (4.8.3)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>906
+++jquery.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Admin
+++XC
+++NewFolder
+++Style.css
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:c:\users\truon\onedrive\máy tính\qlsp\qlsp\wwwroot\css\style.css
+++SQL Server Database (ConnectionStrings:DefaultConnection)
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>964
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnection' is detected
+i:{81fdceea-b6be-41f0-b203-2bb1aaf81606}:>965
